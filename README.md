@@ -1,5 +1,41 @@
 # SQL Injection on DVWA (Low Security)
 
+## 📸 Project Preview
+
+### 1. Security Level Configuration
+
+![Security Level](screenshots/01_security_low.png)
+
+---
+
+### 2. Normal Query Result
+
+Input:
+
+```text
+1
+```
+
+Output:
+
+![Normal Query](screenshots/02_normal_query.png)
+
+---
+
+### 3. SQL Injection Demonstration
+
+Payload:
+
+```sql
+1' OR '1'='1
+```
+
+Output:
+
+![SQL Injection Result](screenshots/03_sql_injection.png)
+
+---
+
 ## Project Overview
 
 This project demonstrates a SQL Injection vulnerability using the Damn Vulnerable Web Application (DVWA) configured at the **Low** security level.
