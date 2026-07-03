@@ -1,4 +1,9 @@
-# SQL Injection on DVWA (Low Security)
+# SQL Injection on DVWA (Low Security)   
+![Platform](https://img.shields.io/badge/Platform-DVWA-green)
+![Language](https://img.shields.io/badge/PHP-8.2-blue)
+![Database](https://img.shields.io/badge/Database-MySQL-orange)
+![Environment](https://img.shields.io/badge/Environment-XAMPP-red)
+![Security](https://img.shields.io/badge/Vulnerability-SQL%20Injection-critical)
 
 ## 📸 Project Preview
 
